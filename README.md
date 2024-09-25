@@ -1,12 +1,12 @@
-# 🌐 Proyecto de Usabilidad y Accesibilidad
+# 🌐 La Importancia de la Inclusión - Proyecto de Usabilidad y Accesibilidad.-
 
 ## Descripción 📖
 
-Bienvenidos a nuestro proyecto dedicado a la **usabilidad** y **accesibilidad**, dos pilares fundamentales para la creación de experiencias digitales inclusivas y eficientes. En el mundo actual, donde la tecnología desempeña un papel central en nuestras vidas, es esencial diseñar interfaces que no solo sean intuitivas y fáciles de usar, sino también accesibles para todas las personas, independientemente de sus capacidades físicas o cognitivas.
+Bienvenidos a mi proyecto dedicado a la **usabilidad** y **accesibilidad**, dos pilares fundamentales para la creación de experiencias digitales inclusivas y eficientes. En el mundo actual, donde la tecnología desempeña un papel central en nuestras vidas, es esencial diseñar interfaces que no solo sean intuitivas y fáciles de usar, sino también accesibles para todas las personas, independientemente de sus capacidades físicas o cognitivas.
 
 Al enfocarnos en la usabilidad y accesibilidad, no solo mejoramos la experiencia del usuario general, sino que también garantizamos que nuestros productos sean inclusivos y accesibles para todos. Esto no solo es una responsabilidad ética, sino que también puede ampliar el alcance y la aceptación de nuestros productos en el mercado.
 
-Nuestra web está diseñada para ser intuitiva y fácil de navegar, con una estructura clara que facilita el acceso a la información.
+Esta web está diseñada para ser intuitiva y fácil de navegar, con una estructura clara que facilita el acceso a la información.
 
 ---
 
